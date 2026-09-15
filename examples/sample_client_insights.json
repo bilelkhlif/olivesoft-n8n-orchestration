@@ -1,0 +1,16 @@
+{
+  "tender_id": "635164-2026",
+  "buyer_name": "Mary Immaculate College",
+  "industry_guess": "Higher Education / Academia",
+  "notes": [
+    "Buyer 'Mary Immaculate College' is procuring via TED (EU public procurement) from IRL.",
+    "Guessed sector: Higher Education / Academia (heuristic match on buyer name -- verify manually).",
+    "Procurement category: IT Services / Software Development, Software Package and Information Systems.",
+    "Public-sector/EU procurement implies formal tender rules, transparent evaluation criteria, and likely GDPR data-handling requirements."
+  ],
+  "why_olivesoft_can_help": [
+    "OliveSoft has direct prior delivery experience in scheduling/booking systems (see EduSchedule, MedConnect) -- strong capability match.",
+    "OliveSoft's EduSchedule platform was built for a comparable education-sector use case, reducing delivery risk."
+  ],
+  "researched_at": "2026-09-15T21:24:07.322039+00:00"
+}

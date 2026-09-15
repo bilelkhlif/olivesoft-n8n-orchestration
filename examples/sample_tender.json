@@ -1,0 +1,28 @@
+{
+  "tender_id": "635164-2026",
+  "source": "TED",
+  "source_url": "https://ted.europa.eu/en/notice/-/detail/635164-2026",
+  "title": "Ireland – IT services: consulting, software development, Internet and support – Mary Immaculate College - Class Timetabling",
+  "buyer_name": "Mary Immaculate College",
+  "buyer_country": "IRL",
+  "cpv_codes": [
+    "72000000",
+    "48000000"
+  ],
+  "cpv_labels": [
+    "IT Services / Software Development",
+    "Software Package and Information Systems"
+  ],
+  "deadline": "2026-10-12T12:00:00+01:00",
+  "raw_description": "Supply of a Class Timetabling, Exam Scheduling, Room Booking and Space Utilisation system for Mary Immaculate College",
+  "required_tech": [
+    "IT Services / Software Development",
+    "Software Package and Information Systems",
+    "scheduling",
+    "booking",
+    "timetabling",
+    "room booking",
+    "space utilisation"
+  ],
+  "detected_at": "2026-09-15T21:23:36.250943+00:00"
+}

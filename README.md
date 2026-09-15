@@ -20,7 +20,9 @@ Seamless orchestration using n8n to connect detection, research, RAG retrieval, 
 n8n (self-hosted via Docker), REST/webhook calls into the other 3 services.
 
 ## Status
-🚧 Scaffolding — Phase 1 MVP in progress. Deadline: Oct 1, 2026.
+✅ Thin end-to-end slice proven (2026-09-15) against a real, live TED tender (Mary Immaculate College — Class Timetabling). See `examples/` for the real captured output. Individual pieces are still rough/heuristic — see the hub repo's `docs/CONTRACT.md` for the Phase 2 upgrade path.
+
+🚧 Phase 1 MVP in progress. Deadline: Oct 1, 2026.
 
 ## Related repos
 - Hub: [olivesoft-rfp-intelligence](https://github.com/bilelkhlif/olivesoft-rfp-intelligence)
